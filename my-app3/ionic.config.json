@@ -1,0 +1,7 @@
+{
+  "name": "my-app3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
