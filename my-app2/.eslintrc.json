@@ -1,5 +1,0 @@
-{
-  "rules": { "semi": ["error", "always"], "quotes": ["error", "double"] },
-  "presets": ["es2015", "react"],
-  "parser": "babel-eslint"
-}
